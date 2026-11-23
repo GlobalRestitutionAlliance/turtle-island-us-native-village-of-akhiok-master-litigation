@@ -1,27 +1,19 @@
-# Master Chain of Custody Log: Republic of Native Village of Akhiok Restitution Instruments
+# Master Chain of Custody Log — Us Native Village of Akhiok
 
-> **Custodian:** Global Restitution Alliance Maintainer Council  
-> **Repository:** `GlobalRestitutionAlliance/turtle-island-us-native-village-of-akhiok-master-litigation`  
-> **Hash Standard:** SHA-256 (NIST FIPS 180-4)  
-> **Line Endings:** Strict Unix LF (`\n`)  
+**Status:** PENDING_LEGAL_REVIEW — SCAFFOLD REMEDIATED  
+**Campaign:** `US_NATIVE_VILLAGE_OF_AKHIOK`  
+**Remediated:** 2026-11-23T17:05:19.424414Z
 
----
+## Remediation Notice
+This scaffold file was remediated to remove unverified template content that asserted
+fabricated verification statuses, dollar amounts, foreign judgments, or
+cross-jurisdiction claims. No claim, citation, docket number, amount, or verification
+status is asserted here without a local hashed source artifact and human sign-off.
 
-## 1. Cryptographic Authentication Protocol
-
-All pleadings, evidentiary matrices, dashboards, agents, and procedural skill specifications within this repository are cryptographically authenticated. Modifications must pass automated hash audit validation against `VERIFICATION_KEYS/sha256_manifest.txt`.
-
-## 2. Inception Ledger (v1.0.0 — Campaign 01)
-
-| Timestamp (UTC) | Action | Target Instrument / Scope | Authorized Actor | Audit Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **2026-11-01 04:00** | Initial Repo Architecture | Project Root & Universal Scaffolding | Maintainer Council | `AUTHENTICATED` |
-| **2026-11-01 04:15** | Agent & Skill Registration | Agents 1–2, Skills 1–3 Registered | Maintainer Council | `AUTHENTICATED` |
-| **2026-11-01 04:30** | Matrix CSV Generation | 25 Instruments (`AAR-001` to `AAR-025`) | Maintainer Council | `AUTHENTICATED` |
-| **2026-11-01 04:45** | Dashboard & Dossier Draft | Crosswalk Dashboard (MD/DOCX) & Legal Dossier | Maintainer Council | `AUTHENTICATED` |
-| **2026-11-01 05:00** | Master Federal Complaint | Pleading Inoculation & Execution Drafts | Maintainer Council | `AUTHENTICATED` |
-| **2026-11-01 05:15** | SHA-256 Manifest Finalization | Repository-wide Hash Compilation | Maintainer Council | `AUTHENTICATED` |
-
----
-
-*(Cryptographic certification signed by Global Restitution Alliance Maintainer Council)*
+## Governance
+- verification_status: `PENDING_LEGAL_REVIEW`
+- legal_review_status: `PENDING_LEGAL_REVIEW`
+- valuation_status: `TBD (valuation pending)`
+- evidence_mapping_status: `AUTO_CANDIDATE_PENDING_REVIEW`
+- verification_rule: `NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT`
+- capture_access: `PUBLIC_CAPTURE_UNAUTHENTICATED`
